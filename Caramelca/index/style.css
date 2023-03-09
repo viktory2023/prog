@@ -1,0 +1,25 @@
+
+.text {
+    top: 60px;
+    padding: 30px 40px;
+    color: rgb(14, 13, 13);
+}
+
+.header {
+    width: auto;
+    display: block;
+    height: 405px;
+    background: url(/img/back1.jpg) repeat-x center bottom;
+   }
+
+   .photo {
+    padding-left: 300px;
+   }
+
+.photoM{
+    display: inline-block;
+    border-radius: 100px;
+    padding-left: 300px;
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
